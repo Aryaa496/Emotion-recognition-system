@@ -18,6 +18,8 @@ An end-to-end deep learning model that automatically generates detailed, context
    cd dense-video-captioning
 2. Install dependencies
    pip install -r requirements.txt
+3.Install the sample dataset
+ https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format
 ## Usage Example**  
 ```markdown
 ## Usage
